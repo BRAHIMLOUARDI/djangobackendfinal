@@ -1,0 +1,1445 @@
+arrange	organiser
+calculate	calculer
+chapter	chapitre
+check	vérifier
+choose	choisir
+collect	collecter
+compare	comparer
+complete	compléter
+content	contenu
+copy	copier
+corollary	corollaire
+decide	décider
+define	définir
+definition	définition
+describe	décrire
+determine	déterminer
+divisor	diviseur
+draw	dessiner
+estimate	estimer
+evaluate	evaluer
+even number 	nombre pair
+example	exemple
+exercise	exercice
+explain	expliquer
+fill in	remplir
+find	trouver
+formula	formule
+give	donner
+highest common divisor	le plus grand diviseur commun
+illustrate	illustrer
+join	joigner
+knowledge	acquis
+lemma	lemme
+lesson	leçon
+make	mettre
+multiple	multiple
+odd number	nombre impair
+predict	prédire
+prime factor	facteur premier
+prime number	nombre premier
+product	produit 
+proof	preuve
+property	propriété
+proposition	proposition
+prove	prouver
+put	poser
+read	lire
+remarque	remarque
+repeat	répéter
+show	montrer
+start	commencer
+start at	commencer à
+start by	commencer par
+start with	commencer avec
+syllabus	programme
+test	test
+the least common multiple 	le plus petit multiple commun
+theorem	théorème
+tools	outils
+trace	tracer
+use	utiliser
+write	écrire
+complementary 	complémentaire 
+equality	égalité 
+expansion	développement 
+factorisation	factorisation
+inclusion	inclusion
+irrational number	nombre irrationnel
+operations in IR	opérations dans IR
+parity 	parité 
+power	puissance
+prime factor	facteur premier 
+product	produit 
+remarkable identity	identité remarquable 
+scientific writing 	écriture scientifique 
+abscissa	abscisse
+aligned	aligné
+angle	angle
+arithmetic sequence	suite arithmétique
+arrow	flèche
+barycenter	barycentre
+basis	base
+bounded above	majorée
+bounded below	minorée
+bounded sequence	suite bornée
+Cartesian coordinate	repère Cartésien
+Cartesian form	forme Cartésienne
+center	centre
+center of gravity	centre de gravity
+circle	cercle
+coefficient	coefficient
+colinear	colignaire
+collinear points	points alignés
+common difference of arithmetic sequence 	raison d'une suite arithmétique
+common ratio of geometric sequence	raison d'une suite géométrqiue
+constant sequence	suite constante
+coordinates	coordonnées
+decreasing sequence	suite décroissante
+diameter	diamétre
+difference	différence
+direction	direction
+direction vector	vecteur directeur
+distance	distance
+distinctive property	marque distinctive
+dot product	produit scalaire
+equation of a straight	équation d'une droite
+equilateral triangle	triangle équilatéral
+explicitly	explicitement
+first term	premier terme
+geometric form	forme géométrique
+geometric sequence	suite géométrique
+graph	graphe
+in function of n	en fonction de n
+increasing sequence	suite croissante
+isosceles trapezoid	trapèze isocèle
+isosceles triangle	triangle isocèle
+line	ligne
+line	droite
+lower value	valeur iniférieure
+lower bound	limite inférieure
+magnitude	magnitude
+median	médiane
+midpoint	milieu
+monotone	monotone
+monotone sequences	suite monotone
+monotonic of a sequence	monotonie d'une suite
+normal vector	triangle
+normal vector	vecteur normal
+ordinate	ordonnée
+pair	couple
+parallel 	parallèl
+parallelogram	parallèlogramme
+perpendicular	perpendiculaire
+plane	plan
+point	point
+projection	projection
+quadrilateral	quadrilatéral
+radius	rayon
+ratio	rapport
+rectangle	rectangle
+recurrence	récurrence
+recurrent sequence	suite récurrente
+recursively	par récurrence
+rhombus	losonge
+right angle	angle rectangle
+scalar	scalaire
+segement	segment
+sequence	suite
+set of points	définir des points
+single point	point unique
+square	carré
+strictly decreasing sequence	suite strictement décroissante
+strictly increasing sequence	suite structement croissante
+sum	somme
+sum of consecutive terms	somme des termes consécutifs
+sum of n terms	somme des n termes
+symmetric	symétrique
+system	système
+tangent	tangente
+term	terme
+trapezium	trapèze
+trapezoid	trapézoïde
+triangle	triangle
+unique point	point unique
+unit vector	vecteur unitaire
+upper value	valeur maximale
+upper boundary	limite supérieure
+vector	vecteur
+weighted points	points pondérés
+x-axis	axe des abscisses
+y-axis	axe des ordonnées
+alignment 	alignement
+right-hand rule	bonhomme d’Ampère 
+analogy 	analogie
+anti-symmetry	antisymétrie
+axioms of incidence	axiomes d’incidence
+bilinearity	bilinéarité
+Cartesian equation 	équation Cartésienne
+colinear vector	vecteur colinéaire
+co-linearity 	colinéarité
+co-planar vectors 	vecteur coplanaire
+co-planarity 	coplanarité
+intersection  	intersection
+line 	droite 
+coordinate system	repère
+oriented basis	 base orienté
+oriented coordinate system 	repère orienté 
+orthogonality 	orthogonalité
+orthonormal basis	base orthonormée 
+orthonormal coordinate system	repère orthonormé 
+parallelism 	parallélisme
+parametric representation 	représentation paramétrique
+plane	plan 
+scalar dot product	produit scalaire 
+solid	solide
+space	espace
+spatial Geometry	géométrie spatiale 
+tangent plane 	plan tangent
+three-dimensional vector 	vecteur trois dimensions
+trihedron	trièdre
+vector calculus	calcul vectoriel
+vector product 	produit vectoriel
+curved abscissa 	abscisse curviligne
+degree	degré 
+grade	grade 
+inscribable quadrilaterals 	quadrilatère inscriptible 
+inscribed angle	angle inscrit
+monotonicity	monotonie 
+orthonormal reference 	repère orthonormé 
+parity	parité 
+periodicity	périodicité
+principal curvilinear abscissa 	abscisse curviligne principale
+radian 	radian 
+straight-line	demi-droite
+trigonometric ratio	ligne trigonométrique 
+unit circle	cercle trigonométrique
+arithmetic average	moyenne arithmétique
+average deviation	écart moyen
+cumulative frequency 	fréquence cumulée 
+cumulative population	effectif cumulé
+histogram	histogramme 
+median	médiane
+mode	mode 
+parameter of position	paramètre de position 
+parameters of dispersion	paramètres de dispersion 
+population	effectif
+ribbon diagram	diagramme en ruban
+sector diagram	diagramme sectoriel
+standard deviation	écart type
+statistic table 	tableau statistique 
+stick diagram	diagramme en bâtons
+abscissa or x-coordinate	abscisse
+absolute value	valeur absolue
+arithmetic progression	progression arithmétique
+arithmetic sequence	suite arithmétique
+asymptotic	asymptotique
+asymptote	asymptote
+axis	axe
+axial symmetry	symétrie axiale
+axis of symmetry	axe de symétrie
+initial state	état initial
+basic	fondamental
+belong to	appartient à 
+logical biconditional	équivalence logique
+biconditional reasoning	raisonnement  par équivalence
+bounded	borné
+bounded above by	majorée par
+bounded below by	minorée par
+bounded sequence	suite bornée
+increasing	croissante
+denominator	dénominateur
+dependent	dépendant 
+determine	déterminer
+discriminant	discriminant
+coefficient	coefficient
+common difference	raison d'une suite arithmétique
+common factor	facteur commun
+common ratio	raison d'une suite géométrique
+composite	composé
+concave	concave
+outcome	résultat
+conclusion 	conclusion
+conditional	conditionnel
+conditional statement	propostition conditionnelle
+conjugate	conjugué
+logical conjunction	conjonction logique
+conjunction	conjonction
+consecutive terms	termes successifs
+constant	constant
+constant function	fonction constante
+contact point	point de contact
+contradiction	contradiction
+contrapositif reasoning	raisonnement par la contraposé
+contrapositive	contraposé
+convex	convexe
+coordinates	coordonnées
+coordinate plane	plan de coordonnées
+cubic Equation	équation cubique
+cubic root	racine cubique
+curve	courbe
+disjunction	disjonction
+divided by	divisé par
+dividend	dividende
+division	division
+division remainder	reste de la division
+divisor	diviseur
+domain	domaine de définition
+element	élément
+empty set	ensemble vide
+equal	égale
+equation	équation
+equivalence	équivalence
+equivalent to	équivalent à
+evaluate	calculer
+even	paire
+even function	fonction paire
+exist	existe
+existential quantifier	quantificateur existentiel
+expansion	développement
+factor	facteur
+first term	premier terme 
+fixed point	point fixe
+formula	formule
+fraction	fraction
+function	fonction
+fundamental identities	identités remarquables 
+geometric progression	progression géométrique
+geometric sequence or	suite géométrique
+gradient	gradient
+graph	graphique
+greater than	supérieur à
+hypothesis	hypothèse
+identity	identité
+identity function	fonction identité
+if and only if	si et seulement si
+image	image
+implication	implication
+increasing	croissante
+increasing function	fonction croissante
+induction	récurrence
+induction reasoning	raisonnement par  récurrence
+inequality	inégalité
+integer	entier
+integers	entiers
+intercept	coupe
+intersection	intersection
+interval	intervalle
+inverse function	fonction inverse
+irrational numbers	nombres irrationnels
+less than	inférieur à
+linear equation	équation linéaire
+logic	logique 
+logical law	loi logique
+logical operators	les opérations logiques
+lower-bounded sequence	suite minorée
+map	application
+map to	tend vers
+maximum	maximum
+method	méthode
+minus	moins
+monotone decreasing sequence	suite décroissante
+monotone increasing sequence	suite croissante
+multiple	multiple
+multiplication	produit
+natural numbers	nombres entiers
+necessary	nécessaire
+negation	negation
+negation or inversion	negation
+negative	négative
+negative whole number	entier négatif
+next term	le terme suivant
+numerator	numérateur
+odd function	fonction impaire
+opposite	opposé
+origin	origine
+pair	paire
+plane	plan
+plot	tracer
+plot the curve	tracer la courbe
+point	point
+point of inflection	point d'inflexion
+polynomial	polynomial
+positive	positif
+previous term	terme précédent
+prime Number	nombre premier
+principal Axis	axe principal
+proof	preuve
+proof by cases	raisonnement par disjonction des cas
+proposition	proposition
+propositional	propositionnelle
+quadratic equation	équation du second degré
+quantifier	quantificateur
+quantifiers	quatificateurs
+quotient	quotient
+radicals	radicaux
+rate	taux
+real numbers	nombres réels
+reasoning	raisonnement
+reasoning by contradiction	raisonnement par contradiction
+reasoning by counter example	raisonnement par contre exemple
+recurrence relation	relation de recurrence
+relative position	position relative
+remainder	reste
+root	racine
+sequences	suites numériques
+set	ensemble
+set of integers	ensemble des nombres entiers
+sides of an equation	termes de l'équation
+sign	signe
+sign table	table de signe
+simplify	simplifier
+sine	sinus
+sketch	tracer
+sketch the curve	tracer la courbe
+solution	solution
+solution set	ensemble de solutions
+square Root	racine carrée
+statement	proposition
+straight	droite
+strictly decreasing	strictement décroissante
+strictly decreasing sequence	suite strictement décroissante
+strictly increasing	strictement croissante
+strictly increasing sequence	suite strictement croissante
+subtraction	soustraction
+sum	somme
+sum of consecutive terms	la somme des termes successifs
+symmetry	symétrie
+tangent	tangent
+term	terme
+the general term	le terme général
+the nth term	le n-éme terme
+theorem	théorème
+times	produit
+truth Table	table de vérité
+unbounded sequence	suite non bornée
+union	union
+unique	unique
+unit	unité
+universal quantifier	quantificateur universel
+upper-bounded sequence	suite majorée
+value	valeur
+variable	variable
+variation table	table de variation
+vertical	vertical
+x-axis	axe des abscisses
+y-axis	axe des ordonnées
+binomial law	la loi binomiale 
+compliment event	événement contraire
+conditional probability	probabilité conditionnelle 
+distribution function	fonction de répartition
+enumerative combinatorics 	dénombrement 
+equiprobability hypothesis	hypothèse d’équiprobabilité 
+finite probabilised space	espace probabilisé fini
+intersection 	intersection 
+mathematical expectancy	espérance mathématique 
+random trial	expérience aléatoire 
+random variable	variable aléatoire 
+standard deviation	écart type
+union 	réunion 
+variance 	variance 
+1st year of the baccalaureate	première année du baccalauréat
+2nd year of the baccalaureate	deuxième année du baccalauréat
+science common core	tronc commun scientifique
+diagnostic assessment 	evaluation diagnostique
+formative assessment	evaluation formative
+life and earth science	sciences de la Vie et de la Terre
+literature and humanities 	lettres et sciences humaines
+summative assessment	evaluation sommative
+agriculture fields	domaine agricole 
+agriculture	agriculture
+air pollution	pollution de l’air
+animal species	espèces animales
+biological control	controle biologique
+biological resistance	résistance biologique
+biomass pyramids 	pyramides de biomasse
+chemical products	produits chimiques
+climatic factors 	facteurs climatiques
+deforestation 	déforestation
+drinking water	eau potable 
+ecosystem 	écosystème
+edaphic factors 	facteurs édaphiques
+energy flows 	flux de l’énergie
+energy pyramids	pyramides d’énergie
+environmental science 	science de l’environnement
+extinction 	extinction
+field trip	sortie
+greenhouse effect	effet de serre
+underground water	eaux souterraines
+underground reserves	réserves souterraines
+health 	santé
+living organisms	êtres vivants
+matter flows 	flux de la matière
+natural balances	équilibres naturels
+natural imbalances	déséquilibres naturels
+natural reserves	réserves naturelles.
+natural resources	ressources naturelles
+non-polluting 	non polluante
+ozone layer 	couche d’ozone
+pathogenic micro-organisms	micro-organismes pathogènes
+renewable energy 	énergie renouvelable
+soil 	sol
+surface water 	eaux superficielles
+surface reserves	réserves superficielles
+trophic networks	réseaux trophiques
+trophic relationships	relations trophiques
+water cycle	cycle de l’eau
+water overexploitation	surexploitation des eaux
+water pollution	pollution de l’eau
+water reserves	réserves en eau
+water treatment 	traitement des eaux
+algae	algues
+angiosperms	angiospermes
+asexual reproduction	reproduction asexuée
+cutting 	bouturage
+dissection 	dissection
+double fertilisation	double fécondation 
+fern	fougère 
+flowering plants	plantes à fleurs
+genetic modification of plants (GM)	modification génétique des plantes (PGM)
+germination	germination
+grafting	greffage
+gymnosperms	gymnospermes
+layering	marcottage
+moss	mousse 
+non-flowering plants	plantes sans fleurs
+plant classification	classification des plantes
+pollen grains 	grains de pollen
+pollination 	pollinisation
+reproduction in plants 	reproduction des plantes 
+reproductive organ structures	appareil reproducteur
+seed formation	formation de la graine
+sexual reproduction 	reproduction sexuelle 
+vegetative multiplication 	multiplication végétative
+anatectic granite	granite d’anatexie 
+ancient sedimentation environments	milieu de sédimentation ancien
+coal basin	bassin houillé
+collision 	collision
+contact metamorphism	métamorphisme de contact 
+dynamic metamorphism 	métamorphisme de subduction (dynamique)
+dynamothermal metamorphism	métamorphisme dynamo-thermique
+milieu	milieu 
+environment	environnement 
+external geological phenomena	phénomènes géologiques externes
+fault	faille 
+fold	pli 
+geological cross-sections 	coupes géologiques
+geological map	carte géologique 
+igneous intrusion 	intrusion du magma granitique 
+index fossil 	fossile stratigraphique
+index mineral	minéral indicateur 
+law of superposition 	principe de superposition
+metamorphic facies 	faciès métamorphique
+metamorphic series	série métamorphique 
+metamorphism	métamorphisme 
+morphoscopic 	morphoscopique
+mountain range	chaine de montagnes
+nappe	nappe de charriage 
+obduction	obduction
+paleogeographic map 	carte paléogéographique 
+phosphate sea 	mer de phosphates
+phosphate field 	champs de phosphate
+plate tectonics 	tectonique des plaques 
+present day sedimentation environments 	milieux de sédimentation actuels
+principle of continuity 	principe de continuité
+principle of palaeontological identity	principe d’identité paléontologique
+sediment forms	formes sédimentaires
+sedimentary cycle	cycle sédimentaire
+stratigraphic gap	lacune stratigraphique
+stratigraphic scale	échelle stratigraphique 
+subduction	subduction
+tectonic deformation 	déformations tectoniques
+allele	allèle
+allele pair 	un couple d’allèles
+autosomes	autosomes
+cell nucleus	noyau de la cellule 
+character	Caractère
+chromosomal complement 	garniture chromosomique 
+chromosomal formula	formule chromosomique
+chromosome analysis 	interprétation chromosomique
+chromosome map	carte chromosomique
+chromosomes 	chromosomes
+co-dominance	codominance 
+consanguineous marriages	mariages consanguins
+continuous variation	variation continue 
+diploid 	diploïde
+disontinuous variation	variation discontinue
+DNA molecule	molécule de l’ADN
+DNA replication	duplication de l’ADN
+dominant allele	allèle dominant 
+elongation 	élongation 
+family tree	arbre généalogique
+female karyotype	le caryotype de la femme
+gene 	Gêne 
+Gene pool	patrimoine génétique
+gene transfer	transfert d’un gène
+gene–protein relationship	relation gène-protéine 
+genetic code	code génétique 
+genetic drift 	dérive génique 
+genetic engineering	génie génétique 
+genetic information 	information génétique 
+genetic map	carte génétique
+genetic material	matériel génétique
+genetic transformation	transformation génétique
+genetic variation in populations 	variation génétique de la population
+genetically-modified organisms	organismes génétiquement modifiés
+genotype	génotype 
+growth hormone	hormone de croissance 
+Hardy-Weinberg principle	loi de Hardy-Weinberg
+hereditary disease	maladie héréditaire
+hereditary trait 	caractère héréditaire
+heredity in humans 	hérédité chez l’Homme 
+immunology	immunologie 
+initiation	initiation 
+lethal gene	gène létal
+male karyotype 	le caryotype de l’homme
+mechanisms of gene expression	mécanismes de l’expression de l’information génétique
+mutation	mutation
+natural selection	sélection naturelle
+non sex-linked 	non liée au sexe
+non sex-linked gene	gène non lié au sexe
+phenotype	le phénotype
+plant cell 	une cellule végétale
+population genetics	génétique des populations 
+population variation	variation des populations 
+protein synthesis 	synthèse des protéines
+pure race	race pure
+recessive allele 	allèle récessif 
+recombination 	le brassage
+reproduction in humans  	reproduction chez l’homme 
+sex-linked 	liée au sexe
+sex-linked gene	un gène lié au sexe
+sexual chromosomes	chromosomes sexuels
+species-specific criteria	critères spécifiques de l’espèce
+termination	terminaison 
+the cell cycle	cycle cellulaire 
+the stages of mitosis 	phases de la mitose
+toxic proteins 	protéines toxiques
+trait–protein relationship	relation caractère-protéine 
+transcription	transcription 
+translation	traduction 
+diploidiy restoration 	le rétablissement de la diploïdie
+zygote formation	formation du zygote ( œuf fecondé)
+absorption 	absorption 
+active transport	transport actif
+ATP	ATP
+ATP regeneration 	renouvellement de l’ATP
+autotrophe	autotrophe
+carbohydrates	glucides
+cell membrane	membrane cellulaire
+cell wall	paroi cellulaire
+chemical energy	énergie chimique
+chemical phase	phase chimique 
+chlorophyll 	chlorophylle
+chlorophyll pigments	pigments chlorophylliens
+chloroplast	chloroplaste
+cytoplasmic membrane 	membrane cytoplasmique
+dark reactions 	réactions de la phase obscure
+diffusion	diffusion
+energy balance	bilan énergétique
+energy yield	rendement énergétique 
+exchange	échange
+facilitated diffusion	diffusion facilitée
+fixation 	fixation
+fluorescence	fluorescence
+food industry	industrie alimentaire 
+free diffusion	diffusion libre
+gas exchange	échange gazeux
+glycolysis 	glycolyse
+guard cells 	cellules stomatiques
+heterotrophic	hétérotrophe
+household waste	ordures ménagères
+hyaloplasm 	hyaloplasme
+hypertonic	hypertonique
+hypotonic	hypotonique
+Krebs Cycle 	cycle de Krebs 
+light energy	énergie lumineuse
+light energy 	énergie lumineuse 
+light rays 	rayons lumineux
+light reactions	réactions de la phase lumineuse
+lipids	lipides
+mineral matter 	matière minérale
+mineral salts	sels minéraux
+mineral industry	industrie minérale 
+mitochondria 	mitochondrie
+muscle contraction	contraction musculaire
+myograms	myogramme
+organic matter	matière organique
+osmosis	osmose
+osmotic pressure	pression Osmotique
+oxidative phosphorylation	phosphorylation oxydative 
+passive transport	transport passif
+photochemical phase	phase photochimique 
+photosynthesis	photosynthèse
+photosystem 	photosystème
+piliferous area 	zone pilifère
+plasmolysis	plasmolyse
+plasmolyzed	plasmolysée
+pore or stomatal aperture	ostiole
+proteins	protéines
+radioactive matter	matières radioactives
+radioactive waste	déchets nucléaires
+raw chlorophyll 	chlorophylle brut
+regeneration	régénération
+rejection 	rejet
+release	dégagement
+release 	libération 
+respiratory chains 	chaines respiratoires
+root	racine
+simplified Calvin cycle	cycle de Calvin simplifié
+skeletal muscle 	muscle strié-squelettique 
+skeletal wall	paroi squelettique 
+starch 	amidon 
+stomata (sg. stoma)	stomates
+stored 	emmagasinée
+turgid	turgescente
+turgor 	turgescence
+ultrastructure 	ultrastructure
+water oxidation 	oxydation de l’eau
+ablation 	ablation 
+acinus 	acinus 
+adipose tissue	tissu adipeux
+arterial blood pressure	pression artérielle 
+blood glucose concentration	glycémie
+cardiac output	débit cardiaque 
+conductibility	conductibilité
+constant biological agent	agent biologique constant
+endocrine gland	glande endocrine
+excitability	excitabilité
+feedback	feedback
+function 	fonction 
+glucagon 	glucagon 
+gluconeogenesis	néoglucogenogenèse
+glucose	glucose
+glycogen  	glycogène
+glycogenesis	glycogenogenèse
+glycogenolysis	glycogénolyse
+heart rate 	la fréquence cardiaque 
+hormonal and nervous communication	communications hormonales et nerveuses
+hormonal communication	communication hormonale
+hormonal message	message hormonal
+hormone	hormone
+hypothalamus 	hypothalamus 
+insulin 	insuline 
+islets of langerhans 	îlots de langerhans
+lipogenesis	lipogenèse
+lipolysis	lipolyse
+liver	foie
+mechanisms	mécanisme
+muscle 	muscle  
+nerve	nerf
+nerve fibre	fibre nerveuse 
+nerve impulse	message nerveux
+nerve impulse generation	naissance du message nerveux
+neuroendocrine integration	intégration neuro-hormonale 
+pancreas 	pancréas
+pituitary gland 	hypophyse 
+release	libération
+salt and water balance 	équilibre hydro-minéral 
+storage, storing 	stockage
+synapse	synapse
+synaptic transmission neurotransmission 	transmission synaptique
+target cells	cellules cible
+translation 	traduction
+triggering 	déclenchement 
+α cells 	cellules α
+β cells 	cellules β
+birth	naissance 
+birth control	régulation des naissances 
+childbirth	accouchement 
+chromosome reduction	réduction chromatique 
+female reproductive system	appareil génital de la femme 
+fertilisation	fécondation 
+gametes	gamètes
+gametogenesis	gamétogenèse
+implantation	nidation
+male reproductive organ	appareil génital de l’homme 
+migration 	migration 
+ovogenesis	ovogenèse
+ovarian cycle 	cycle ovarien
+ovary	ovaire
+permatogenesis	spermatogenèse 
+pregnancy 	grossesse 
+reproduction in humans	reproduction chez l’homme 
+sexually-transmitted diseases	maladies sexuellement transmissibles
+spermatogonia karyotype 	caryotype d’une spermatogonie 
+spermatozoid karyotype	caryotype d’un spermatozoïde 
+testicle	testicule
+uterine cycle	cycle utérin
+uterus	utérus 
+acquired immune deficiency syndrome (AIDS)	syndrome d'immunodéficience acquise (SIDA) 
+blood group markers	marqueurs des groupes sanguins
+antigens 	antigenes
+bone marrow transplant	greffe de la moelle osseuse 
+cell-mediated immunity	réaction immunitaire à médiation cellulaire 
+humoral immunity	réaction immunitaire à médiation humorale 
+immediate hypersensitivity reactions (IHRs)	allergie due à l’hypersensibilité immédiate 
+immune disorders	disfonctionnements du système immunitaire
+immune response	réaction immunitaire
+immune system boosters	moyens d’aide du système immunitaire
+major histocompatibility complex (MHC)	complexe majeur d’histocompatibilité
+markers of self	marqueurs du soi
+non-self 	non soi
+non-specific immune response	moyen de défense non spécifique
+self 	soi 
+serotherapy	sérothérapie 
+specific immune response	Moyen de défense spécifique
+1st year of the baccalaureate	première année du baccalauréat
+2nd year of the baccalaureate	deuxième année du baccalauréat
+science common core	tronc commun scientifique
+diagnostic assessment 	evaluation diagnostique
+formative assessment	evaluation formative
+life and earth science	sciences de la Vie et de la Terre
+literature and humanities 	lettres et sciences humaines
+summative assessment	evaluation sommative
+agriculture fields	domaine agricole 
+agriculture	agriculture
+air pollution	pollution de l’air
+animal species	espèces animales
+biological control	controle biologique
+biological resistance	résistance biologique
+biomass pyramids 	pyramides de biomasse
+chemical products	produits chimiques
+climatic factors 	facteurs climatiques
+deforestation 	déforestation
+drinking water	eau potable 
+ecosystem 	écosystème
+edaphic factors 	facteurs édaphiques
+energy flows 	flux de l’énergie
+energy pyramids	pyramides d’énergie
+environmental science 	science de l’environnement
+extinction 	extinction
+field trip	sortie
+greenhouse effect	effet de serre
+underground water	eaux souterraines
+underground reserves	réserves souterraines
+health 	santé
+living organisms	êtres vivants
+matter flows 	flux de la matière
+natural balances	équilibres naturels
+natural imbalances	déséquilibres naturels
+natural reserves	réserves naturelles.
+natural resources	ressources naturelles
+non-polluting 	non polluante
+ozone layer 	couche d’ozone
+pathogenic micro-organisms	micro-organismes pathogènes
+renewable energy 	énergie renouvelable
+soil 	sol
+surface water 	eaux superficielles
+surface reserves	réserves superficielles
+trophic networks	réseaux trophiques
+trophic relationships	relations trophiques
+water cycle	cycle de l’eau
+water overexploitation	surexploitation des eaux
+water pollution	pollution de l’eau
+water reserves	réserves en eau
+water treatment 	traitement des eaux
+algae	algues
+angiosperms	angiospermes
+asexual reproduction	reproduction asexuée
+cutting 	bouturage
+dissection 	dissection
+double fertilisation	double fécondation 
+fern	fougère 
+flowering plants	plantes à fleurs
+genetic modification of plants (GM)	modification génétique des plantes (PGM)
+germination	germination
+grafting	greffage
+gymnosperms	gymnospermes
+layering	marcottage
+moss	mousse 
+non-flowering plants	plantes sans fleurs
+plant classification	classification des plantes
+pollen grains 	grains de pollen
+pollination 	pollinisation
+reproduction in plants 	reproduction des plantes 
+reproductive organ structures	appareil reproducteur
+seed formation	formation de la graine
+sexual reproduction 	reproduction sexuelle 
+vegetative multiplication 	multiplication végétative
+anatectic granite	granite d’anatexie 
+ancient sedimentation environments	milieu de sédimentation ancien
+coal basin	bassin houillé
+collision 	collision
+contact metamorphism	métamorphisme de contact 
+dynamic metamorphism 	métamorphisme de subduction (dynamique)
+dynamothermal metamorphism	métamorphisme dynamo-thermique
+milieu	milieu 
+environment	environnement 
+external geological phenomena	phénomènes géologiques externes
+fault	faille 
+fold	pli 
+geological cross-sections 	coupes géologiques
+geological map	carte géologique 
+igneous intrusion 	intrusion du magma granitique 
+index fossil 	fossile stratigraphique
+index mineral	minéral indicateur 
+law of superposition 	principe de superposition
+metamorphic facies 	faciès métamorphique
+metamorphic series	série métamorphique 
+metamorphism	métamorphisme 
+morphoscopic 	morphoscopique
+mountain range	chaine de montagnes
+nappe	nappe de charriage 
+obduction	obduction
+paleogeographic map 	carte paléogéographique 
+phosphate sea 	mer de phosphates
+phosphate field 	champs de phosphate
+plate tectonics 	tectonique des plaques 
+present day sedimentation environments 	milieux de sédimentation actuels
+principle of continuity 	principe de continuité
+principle of palaeontological identity	principe d’identité paléontologique
+sediment forms	formes sédimentaires
+sedimentary cycle	cycle sédimentaire
+stratigraphic gap	lacune stratigraphique
+stratigraphic scale	échelle stratigraphique 
+subduction	subduction
+tectonic deformation 	déformations tectoniques
+allele	allèle
+allele pair 	un couple d’allèles
+autosomes	autosomes
+cell nucleus	noyau de la cellule 
+character	Caractère
+chromosomal complement 	garniture chromosomique 
+chromosomal formula	formule chromosomique
+chromosome analysis 	interprétation chromosomique
+chromosome map	carte chromosomique
+chromosomes 	chromosomes
+co-dominance	codominance 
+consanguineous marriages	mariages consanguins
+continuous variation	variation continue 
+diploid 	diploïde
+disontinuous variation	variation discontinue
+DNA molecule	molécule de l’ADN
+DNA replication	duplication de l’ADN
+dominant allele	allèle dominant 
+elongation 	élongation 
+family tree	arbre généalogique
+female karyotype	le caryotype de la femme
+gene 	Gêne 
+Gene pool	patrimoine génétique
+gene transfer	transfert d’un gène
+gene–protein relationship	relation gène-protéine 
+genetic code	code génétique 
+genetic drift 	dérive génique 
+genetic engineering	génie génétique 
+genetic information 	information génétique 
+genetic map	carte génétique
+genetic material	matériel génétique
+genetic transformation	transformation génétique
+genetic variation in populations 	variation génétique de la population
+genetically-modified organisms	organismes génétiquement modifiés
+genotype	génotype 
+growth hormone	hormone de croissance 
+Hardy-Weinberg principle	loi de Hardy-Weinberg
+hereditary disease	maladie héréditaire
+hereditary trait 	caractère héréditaire
+heredity in humans 	hérédité chez l’Homme 
+immunology	immunologie 
+initiation	initiation 
+lethal gene	gène létal
+male karyotype 	le caryotype de l’homme
+mechanisms of gene expression	mécanismes de l’expression de l’information génétique
+mutation	mutation
+natural selection	sélection naturelle
+non sex-linked 	non liée au sexe
+non sex-linked gene	gène non lié au sexe
+phenotype	le phénotype
+plant cell 	une cellule végétale
+population genetics	génétique des populations 
+population variation	variation des populations 
+protein synthesis 	synthèse des protéines
+pure race	race pure
+recessive allele 	allèle récessif 
+recombination 	le brassage
+reproduction in humans  	reproduction chez l’homme 
+sex-linked 	liée au sexe
+sex-linked gene	un gène lié au sexe
+sexual chromosomes	chromosomes sexuels
+species-specific criteria	critères spécifiques de l’espèce
+termination	terminaison 
+the cell cycle	cycle cellulaire 
+the stages of mitosis 	phases de la mitose
+toxic proteins 	protéines toxiques
+trait–protein relationship	relation caractère-protéine 
+transcription	transcription 
+translation	traduction 
+diploidiy restoration 	le rétablissement de la diploïdie
+zygote formation	formation du zygote ( œuf fecondé)
+absorption 	absorption 
+active transport	transport actif
+ATP	ATP
+ATP regeneration 	renouvellement de l’ATP
+autotrophe	autotrophe
+carbohydrates	glucides
+cell membrane	membrane cellulaire
+cell wall	paroi cellulaire
+chemical energy	énergie chimique
+chemical phase	phase chimique 
+chlorophyll 	chlorophylle
+chlorophyll pigments	pigments chlorophylliens
+chloroplast	chloroplaste
+cytoplasmic membrane 	membrane cytoplasmique
+dark reactions 	réactions de la phase obscure
+diffusion	diffusion
+energy balance	bilan énergétique
+energy yield	rendement énergétique 
+exchange	échange
+facilitated diffusion	diffusion facilitée
+fixation 	fixation
+fluorescence	fluorescence
+food industry	industrie alimentaire 
+free diffusion	diffusion libre
+gas exchange	échange gazeux
+glycolysis 	glycolyse
+guard cells 	cellules stomatiques
+heterotrophic	hétérotrophe
+household waste	ordures ménagères
+hyaloplasm 	hyaloplasme
+hypertonic	hypertonique
+hypotonic	hypotonique
+Krebs Cycle 	cycle de Krebs 
+light energy	énergie lumineuse
+light energy 	énergie lumineuse 
+light rays 	rayons lumineux
+light reactions	réactions de la phase lumineuse
+lipids	lipides
+mineral matter 	matière minérale
+mineral salts	sels minéraux
+mineral industry	industrie minérale 
+mitochondria 	mitochondrie
+muscle contraction	contraction musculaire
+myograms	myogramme
+organic matter	matière organique
+osmosis	osmose
+osmotic pressure	pression Osmotique
+oxidative phosphorylation	phosphorylation oxydative 
+passive transport	transport passif
+photochemical phase	phase photochimique 
+photosynthesis	photosynthèse
+photosystem 	photosystème
+piliferous area 	zone pilifère
+plasmolysis	plasmolyse
+plasmolyzed	plasmolysée
+pore or stomatal aperture	ostiole
+proteins	protéines
+radioactive matter	matières radioactives
+radioactive waste	déchets nucléaires
+raw chlorophyll 	chlorophylle brut
+regeneration	régénération
+rejection 	rejet
+release	dégagement
+release 	libération 
+respiratory chains 	chaines respiratoires
+root	racine
+simplified Calvin cycle	cycle de Calvin simplifié
+skeletal muscle 	muscle strié-squelettique 
+skeletal wall	paroi squelettique 
+starch 	amidon 
+stomata stomates
+stored 	emmagasinée
+turgid	turgescente
+turgor 	turgescence
+ultrastructure 	ultrastructure
+water oxidation 	oxydation de l’eau
+ablation 	ablation 
+acinus 	acinus 
+adipose tissue	tissu adipeux
+arterial blood pressure	pression artérielle 
+blood glucose concentration	glycémie
+cardiac output	débit cardiaque 
+conductibility	conductibilité
+constant biological agent	agent biologique constant
+endocrine gland	glande endocrine
+excitability	excitabilité
+feedback	feedback
+function 	fonction 
+glucagon 	glucagon 
+gluconeogenesis	néoglucogenogenèse
+glucose	glucose
+glycogen  	glycogène
+glycogenesis	glycogenogenèse
+glycogenolysis	glycogénolyse
+heart rate 	la fréquence cardiaque 
+hormonal and nervous communication	communications hormonales et nerveuses
+hormonal communication	communication hormonale
+hormonal message	message hormonal
+hormone	hormone
+hypothalamus 	hypothalamus 
+insulin 	insuline 
+islets of langerhans 	îlots de langerhans
+lipogenesis	lipogenèse
+lipolysis	lipolyse
+liver	foie
+mechanisms	mécanisme
+muscle 	muscle  
+nerve	nerf
+nerve fibre	fibre nerveuse 
+nerve impulse	message nerveux
+nerve impulse generation	naissance du message nerveux
+neuroendocrine integration	intégration neuro-hormonale 
+pancreas 	pancréas
+pituitary gland 	hypophyse 
+release	libération
+salt and water balance 	équilibre hydro-minéral 
+storage, storing 	stockage
+synapse	synapse
+synaptic transmission neurotransmission 	transmission synaptique
+target cells	cellules cible
+translation 	traduction
+triggering 	déclenchement 
+α cells 	cellules α
+β cells 	cellules β
+birth	naissance 
+birth control	régulation des naissances 
+childbirth	accouchement 
+chromosome reduction	réduction chromatique 
+female reproductive system	appareil génital de la femme 
+fertilisation	fécondation 
+gametes	gamètes
+gametogenesis	gamétogenèse
+implantation	nidation
+male reproductive organ	appareil génital de l’homme 
+migration 	migration 
+ovogenesis	ovogenèse
+ovarian cycle 	cycle ovarien
+ovary	ovaire
+permatogenesis	spermatogenèse 
+pregnancy 	grossesse 
+reproduction in humans	reproduction chez l’homme 
+sexually-transmitted diseases	maladies sexuellement transmissibles
+spermatogonia karyotype 	caryotype d’une spermatogonie 
+spermatozoid karyotype	caryotype d’un spermatozoïde 
+testicle	testicule
+uterine cycle	cycle utérin
+uterus	utérus 
+acquired immune deficiency syndrome (AIDS)	syndrome d'immunodéficience acquise (SIDA) 
+blood group markers	marqueurs des groupes sanguins
+antigens 	antigenes
+bone marrow transplant	greffe de la moelle osseuse 
+cell-mediated immunity	réaction immunitaire à médiation cellulaire 
+humoral immunity	réaction immunitaire à médiation humorale 
+immediate hypersensitivity reactions (IHRs)	allergie due à l’hypersensibilité immédiate 
+immune disorders	disfonctionnements du système immunitaire
+immune response	réaction immunitaire
+immune system boosters	moyens d’aide du système immunitaire
+major histocompatibility complex (MHC)	complexe majeur d’histocompatibilité
+markers of self	marqueurs du soi
+non-self 	non soi
+non-specific immune response	moyen de défense non spécifique
+self 	soi 
+serotherapy	sérothérapie 
+specific immune response	Moyen de défense spécifique
+decreasing function	fonction décroissante 
+differential equatiion	équation différentielle
+experiments	expériences
+graph	graphe
+linear function	fonction linéaire 
+Acids and Bases	acides et bases
+chemistry	chimie 
+electricity	électricité
+experimental device	dispositif expérimental 
+experimental assembly	montage éxperimental
+exponential function	fonction exponentielle 
+graph paper	papier millimétré 
+graphic representation	représentation graphique 
+heat transfer	transfert thermique
+increasing function	fonction croissante 
+magnetism	magnétisme
+measurements	mesures
+Mechanics	mécanique 
+nuclear physics	physique nucléaire 
+optics	optique
+organic chemistry	chimie organique 
+oxidation and reduction	oxydation et la réduction
+physicist 	physicien
+physics	physique 
+proportionality relation	relation de proportionnalité 
+waves	ondes 
+abscissa	abscisse
+angular abscissa	abscisse angulaire
+angular speed	vitesse angulaire
+Archimedes buoyancy force	poussée d'Archimède
+average value	valeur moyenne
+calorimetric equation	equation calorimétrique
+Cartesian coordinate system	système de coordonnées cartésiennes
+centre of inertia	centre d'inertie
+centre of mass relation	relation barycentrique
+centripetal force	force centripète
+characteristics of a force	caractéristiques d'une force
+circular motion	mouvement circulaire
+conservative force	force conservative
+conservative system	système conservatif
+contact force	force de contact
+curvilinear abscissa	abscisse curviligne
+curvilinear translation 	translation curviligne
+direction	sens
+director coefficient	coefficient directeur
+drive 	travail moteur
+elastic deformation	déformation élastique
+electrolyser 	électrolyseur 
+electronic assembly	montage électronique
+external force	force extérierue
+first principle of thermodynamics	premier principe de la thermodynamique
+force in dictance (Body force)	force à distance
+free-fall  	chute libre 
+Frenet frame of reference	repère de Frenet 
+friction	frottement 
+friction angle	angle de frottement 
+friction coefficient	coefficient de frottement
+force of friction	force de frottement
+frictional contact	contact avec frottement
+frictionless contact	contact sans frottement
+Galilean frame of reference	référentiel galiléen
+gravitational potential energy	energie potentielle de pesanteur
+ideal gas	gaz parfait
+incline	inclinaison 
+instantaneous value	valeur instantanée
+intensity	intensité
+internal force	force intérieure
+Kepler's Laws	lois de Kepler
+kinetic energy	enérgie cinétique
+linear speed	vitesse linéaire 
+mass	masse 
+mechanical energy	energie mécanique
+moment	moment
+moment of inertia	moment d'inertie
+Newton's law of universal gravitation	loi de Newton de la gravitation universelle
+non-conservative system	système non conservatif
+NPN-type transistor 	transistor de type NPN 
+ordinate	ordonnée
+origin	origine 
+point of application	point d'application
+pendulum	pendule
+power of a force	puissance d'une force
+pressed area	surface pressée 
+pressing force	force pressante 
+pressure	pression 
+principle of inertia	principe d'inertie 
+pure body	corps pur 
+radiation	rayonnement 
+rectilinear motion	mouvement rectiligne
+rectilinear translation	translation rectiligne
+resistant work	travail résistant
+restoring force 	force de rappel
+restoring torque 	couple de rappel
+rotational axis 	axe de rotation
+rotational movement	mouvement de rotation
+length scale	échelle des longueurs
+conventional sign	signe conventionnel
+sliding	glissement
+slope	pente 
+solid body	corps solide 
+space reference frame	repère d'espace
+Specific heat capacity 	chaleur massique
+Speed	vitesse
+spring	ressort 
+law of nodes	loi des noeuds 
+Planck's Constant 	constante de Planck
+theorem of moments	théorème des moments 
+theorem of kinetic energy	théorème de l'énergie cinétique
+thermal transfer 	transfert thermique
+time equation	équation horaire
+time reference frame	repère du temps
+torsion torque	couple de torsion
+trajectory	trajectoire
+translational movement	mouvement de translation
+universal attraction	attraction universelle
+universal gravitation	gravitation universelle
+universal gravitation constant	constante de la gravitation universelle
+velocity	vecteur vitesse
+weight of an object	poids d'un corps
+work of a force	travail d'une force
+resistive circuit	circuit résistif 
+active dipole	dipôle actif 
+ammeter	ampèrmètre
+amplitude modulation	modulation d’amplitude
+bar magnet	barreau aimanté 
+current-voltage characteristic	caractéristique courant - tension
+chemical energy	énergie chimique
+coil	bobine 
+capacitor	condensateur 
+Coulomb's law	loi de Coulomb
+damping	amortissement
+decreasing potential	potentiel decroissant 
+diode	diode
+direct electric current	courant électrique continu
+direct electric voltage 	tension électrique continue
+dissipated energy	énergie dissipée
+earth's magnetic field	champ magnétique terrestre 
+electric battery	pile électrique 
+electric current	courant éléctrique
+electric potential	potentiel électrique 
+electric potential difference (Voltage)	tension électrique
+electric potential energy	énergie potentielle électrique
+electric voltage	tension électrique
+electrical assembly	montage électrique
+electrical charge	charge électrique
+electrical interaction	interaction électrique
+electromechanical coupling	couplage électromécanique
+electromotive force 	force électromotrice 
+electronic chain	chaine électronique
+electrostatic	champ électrostatique
+elementary charge	charge élémentaire 
+equipotential surface	surface équipotentielle
+field lines	lignes de champ
+field spectrum	spectre du champ 
+field vector 	vecteur champ
+generator	générateur 
+generator yield	rendement du générateur
+intensity of electric current	intensité du courant électrique
+Joule effect	effet Joule
+Joule's Law	loi de joule
+Kirchhoff's loop (or circuit) rule (Kirchhoff's second law)	loi d'additivité des tensions (loi des mailles)
+Kirchhoff's node (or junction) rule (Kirchhoff's first law)	loi des noeuds
+Laplace's force	force de Laplace 
+Laplace's law	loi de Laplace
+light energy	énergie lumineuse
+radiation energy	énergie de rayonnement
+magnet	aimant 
+U magnet	aimant en U 
+magnetic field	champ magnétique 
+magnetic needle	aiguille aimantée 
+Mechanical energy	énergie mécanique 
+Ohmic conductor	conducteur ohmique
+Ohm's law	loi d'Ohm
+operating point	point de fonctionnement
+operational amplifier	amplificateur opérationnel
+overall energy	énergie globale
+parallel circuit	circuit en parallèle
+passive dipole	dipôle passif 
+potential	potentiel
+Pouillet's Law	loi de Pouillet
+charge quantity	quantité de charge
+radial field	champ radial 
+received electrical energy	énergie électrique reçue
+receiver yield	rendement du récepteur
+receptor	récepteur 
+reference state for potential energy	état de référence pour l'énergie potentielle
+resistance	résistance
+series circuit	circuit en série
+solenoid	solénoïde 
+field sources	sources du champ
+speaker 	haut-parleur
+thermal energy	énergie thermique
+transistor	transistor 
+turns	spires
+uniform electric field	champ électrique uniforme 
+useful energy	énergie utile
+variable voltage	tension variable
+voltmeter	voltmètre
+yield	rendement  
+astronomical telescope	lunette astronomique
+beam of light	faisceau lumineux 
+convex lens	lentille convergente
+divergent lens	lentille divergente
+focal distance	distance focale
+focal point	foyers
+focometry	focométrie
+Gauss conditions	conditions de Gauss
+lens	une lentille 
+light	lumière 
+light ray	rayon lumineux
+magnifying glass	loupe 
+microscope	microscope 
+mirror	miroir
+mirror plane	miroir plan 
+monochromatic light	lumière monochromatique
+ocular circle	cercle oculaire
+opaque medium	milieu opaque
+prism	prisme
+rainbow	arc-en-ciel
+rectilinear propagation of light 	propagation rectiligne de la lumière
+reflection	reflexion
+refraction	refraction
+refractive index	indice de refraction
+thin converging lens	lentille mince convergente 
+tranparent medium	milieu transparent
+vergence	vergence
+celerity	célérité
+diffraction	diffraction
+dispersion	dispersion
+elongation	elongation
+environmental index 	indice du milieu
+frequency	fréquence
+light wave	ondes lumineuses
+longitudinal	longitudinal
+mechanical waves	ondes mécaniques
+mono-dimensional	mono-dimensionnel
+prism	prisme 
+sinusoid progressive wave	onde progressive sinusoïdale
+sound wave	ondes sonores
+spatial periodicity	périodicité spatiale
+propagation speed	vitesse de propagation
+temporal delay	retard temporel
+temporal periodicity	périodicité temporelle
+transverse	transversal
+ultrasound	ultrason
+wavelength	longueur d'onde
+white light	lumière blanche
+activity of a sample	activité d'un échantillon
+Aston curve	courbe d’Aston
+binding energy 	énergie de liaison
+dating	datation
+decay constant	constante radioactive
+gray	émission
+half-life	demi-vie
+isoptopes	isotopes
+mass difference 	défaut de masse
+mass-energy equivalence	équivalence masse-énergie
+nuclear fission	fission nucléaire
+nuclear fusion	fusion nucléaire
+nucleus	noyau
+radioactive activity	activité radioactive
+radioactive decay	décroissance radioactive
+random	aléatoire
+spontaneous	spontanné
+atom	atome
+chemical element	élément chimique
+chemical species	éspèce chimique
+compound	composé
+fluid	fluide
+gas	gazeux
+liquid	liquide
+matter	matière
+mixture	mélange
+molecule	molécule
+object	corps
+physical states of matter	états physiques de la matière
+solid	solide
+balance	balance
+conductivity	conductivité
+density (Volumic mass)	masse volumique
+international system of unit	système internationale des unités 
+length	longueur
+mass	masse
+measurement	mesure
+pipette	pipette
+precision of measurement	précision de mesure
+temperature	température
+thermometer	thermomètre
+time	temps
+volume	volume
+acidity constant	constante d'équilibre
+autoprotolysis of water	autoprotolyse de l'eau
+chemical kinetics	cinétique chimique 
+chemical reaction	réaction chimique
+equilibrium constant	constante d'équilibre
+esterification and hydrolysis reactions	réactions d'estérification et d'hydrolyse
+examples of forced transformations 	exemples de transformations forcées
+fast	transformations lentes
+final advancement 	avancement final
+half-reaction time	temps de demi-réaction 
+homogeneous catalysis	catalyse homogène
+ionic product of water	produit ionique de l'eau 
+kinetic factors	facteurs cinétiques
+maximal advancement	avancement maximal
+measurement of conductivity	mesure de la conductivité
+measurement of pH	mesure de pH
+measurement of pressure	mesure de pression
+rate final progress of a reaction	taux d'avancement final d'une réaction chimique
+rate of reaction	vitesse de réaction
+quotient of reaction	quotient de réaction
+spontaneous transformations	transformations spontanées
+state of equilibrium of a chemical system	etat d'équilibre d'un système chimique
+temporal monitoring	suivi temporel

@@ -1,0 +1,27 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+/media
+/backend/__pycache__
+/glossaire/__pycache__
+/manage.py
+/bin
+/finalfinal.h5
+/db.sqlite3
+/lib 
+/lib64
+/pyvenv.cfg
+# Environments 
+.env 
+.venv 
+env/ 
+venv/ 
+ENV/ 
+env.bak/ 
+venv.bak/ 
+
+
+
